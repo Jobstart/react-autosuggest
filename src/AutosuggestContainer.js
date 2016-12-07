@@ -160,6 +160,7 @@ export default class AutosuggestContainer extends Component {
         focusFirstSuggestion={focusFirstSuggestion}
         theme={mapToAutowhateverTheme(theme)}
         id={id}
+        ref='autosuggestComponent'
         inputRef={this.storeInputReference}
         store={this.store}
       />
