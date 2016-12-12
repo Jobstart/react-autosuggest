@@ -79,7 +79,7 @@ module.exports = {
     'react/no-multi-comp': [2, { 'ignoreStateless': true }],
     'react/no-render-return-value': 2,
     'react/no-set-state': 0,
-    'react/no-string-refs': 2,
+    'react/no-string-refs': 0,
     'react/no-unknown-property': 2,
     'react/no-unused-prop-types': 0, // https://github.com/yannickcr/eslint-plugin-react/pull/835
     'react/prefer-es6-class': [2, 'always'],

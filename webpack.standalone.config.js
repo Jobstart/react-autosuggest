@@ -21,7 +21,7 @@ module.exports = [{
   },
 
   externals: {
-    react: 'React'
+    react: 'react'
   }
 }, {
   entry: './src/index.js',
@@ -43,7 +43,7 @@ module.exports = [{
   },
 
   externals: {
-    react: 'React'
+    react: 'react'
   },
 
   plugins: [
